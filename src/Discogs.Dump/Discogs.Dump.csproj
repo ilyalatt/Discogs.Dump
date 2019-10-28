@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <LangVersion>8.0</LangVersion>
+    <Nullable>enable</Nullable>
+    <NullableContextOptions>enable</NullableContextOptions>
+    <WarningsAsErrors>CS8597;CS8600;CS8601;CS8602;CS8603;CS8604;CS8618;CS8622;CS8625</WarningsAsErrors>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <Version>0.1.1</Version>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <PackageId>Discogs.Dump</PackageId>
+    <PackageProjectUrl>https://github.com/ilyalatt/Discogs.Dump</PackageProjectUrl>
+    <PackageIconUrl>https://i.ibb.co/vBJsq9H/discogs-vinyl-record-mark.png</PackageIconUrl>
+    <PackageLicenseExpression>Unlicense</PackageLicenseExpression>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <Description>Discogs dump model parser</Description>
+    <Authors>ilyalatt</Authors>
+  </PropertyGroup>
+
+</Project>

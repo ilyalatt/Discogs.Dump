@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Discogs.Dump", "src\Discogs.Dump\Discogs.Dump.csproj", "{FAD0701E-820B-4AE1-8057-3B80274AA9AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Discogs.Dump.Playground", "src\Discogs.Dump.Playground\Discogs.Dump.Playground.csproj", "{78135476-9503-416C-BB84-8E4D24A135AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAD0701E-820B-4AE1-8057-3B80274AA9AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAD0701E-820B-4AE1-8057-3B80274AA9AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAD0701E-820B-4AE1-8057-3B80274AA9AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAD0701E-820B-4AE1-8057-3B80274AA9AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78135476-9503-416C-BB84-8E4D24A135AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78135476-9503-416C-BB84-8E4D24A135AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78135476-9503-416C-BB84-8E4D24A135AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78135476-9503-416C-BB84-8E4D24A135AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
